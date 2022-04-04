@@ -107,7 +107,7 @@ public class P4_Task03_ControlAndConditionalStatementsInJava {
 		System.out.println(i);
 		if(i==6)
 		{
-			break;
+			break; //When the condition is matched break will throw it out of the loop
 		}
 	System.out.println(i);
 	}
