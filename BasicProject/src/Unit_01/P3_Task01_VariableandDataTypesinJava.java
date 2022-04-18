@@ -18,7 +18,7 @@ package Unit_01;
 		 *      Static Variables-
 		 *      - static variables are defined with the STATIC keyword
 		 *      - Static variables are initialized only once, at the start of the program execution.
-		 *      - These static variables should be initialized first, before, the initialization of any
+		 *      - These static variables should be initiali`zed first, before, the initialization of any
 		 *      
 		 *   - Data Types in Java?
 		 *   . Reference OneNote
